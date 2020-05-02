@@ -26,5 +26,5 @@ For example, many data structures don’t support any kind of searching behavior
 Each data structure has it’s own different way, or different algorithm for sorting, inserting, finding, …etc, Why? Because, due to the nature of the data structure, there are algorithms used with specific data structure, where some other can’t be used.
 The more efficient & suitable the algorithm, the more you will have an optimized data structure. These algorithms might be built-in or implemented by developer to manage and run these data structures.
 ***
-Always read the language documentation and check the performance of the algorithms used with the underlying data structure. Different algorithms might be used based on the data (it’s size, type, …) you have.
+> Always read the language documentation and check the performance of the algorithms used with the underlying data structure. Different  > algorithms might be used based on the data (it’s size, type, …) you have.
 ***
