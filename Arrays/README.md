@@ -1,4 +1,4 @@
-#Arrays
+# Arrays
 
 Arrays are a very simple data structure, and may be thought of as a list of a fixed length. Arrays are nice because of their simplicity, and are well suited for situations where the number of data items is known (or can be programmatically determined). Suppose you need a piece of code to calculate the average of several numbers. An array is a perfect data structure to hold the individual values, since they have no specific order, and the required computations do not require any special handling other than to iterate through all of the values. The other big strength of arrays is that they can be accessed randomly, by index. For instance, if you have an array containing a list of names of students seated in a classroom, where each seat is numbered 1 through n, then studentName[i] is a trivial way to read or store the name of the student in seat i.
 
@@ -31,7 +31,7 @@ Most of the programming languages allow you to define dynamic arrays, which mean
 * To find an element, you need to check the entire array until you find it. If the data is sorted, you can use algorithms such as Binary Search to optimize the process.
 
 
-#Coding Practice
+# Coding Practice
 [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/)
 [Hackerrank](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=arrays)
 [Medium](https://medium.com/@codingfreak/huge-collection-of-array-interview-questions-e87ac7c34e62)
