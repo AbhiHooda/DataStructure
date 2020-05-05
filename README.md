@@ -31,6 +31,6 @@ The more efficient & suitable the algorithm, the more you will have an optimized
 ***
 
 # Links
-[diving-into-data-structures](https://medium.com/omarelgabrys-blog/diving-into-data-structures-6bc71b2e8f92)  
+[diving-into-data-structures](https://medium.com/omarelgabrys-blog/diving-into-data-structures-6bc71b2e8f92)
 [the-top-data-structures](https://www.freecodecamp.org/news/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3/)
 [data-structures](https://www.topcoder.com/community/competitive-programming/tutorials/data-structures/)
